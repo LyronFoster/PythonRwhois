@@ -12,3 +12,7 @@ Once the client details are fetched, the server constructs a response conforming
 The constructed response is then sent back to the requesting client, fulfilling the WHOIS query and providing the relevant network registration details in the expected ARIN RWhois format.
 
 This project is designed to provide a foundational implementation of an ARIN RWhois server, allowing for customization and further enhancements based on specific requirements. Integration with a MySQL database ensures dynamic retrieval of client information, allowing the server to provide up-to-date and accurate WHOIS responses.
+
+
+# Author
+Lyron Foster
